@@ -1,7 +1,7 @@
 {
   "name": "Queen Ama Edition",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Botpasiya/Maduwa_B4",
+  "repository": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release",
   "logo": "https://i.imgur.com/lNdk6jF.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
