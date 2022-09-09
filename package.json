@@ -1,5 +1,5 @@
 {
-  "name": "Cyber-X MD",
+  "name": "QUEEN AMA EDITION",
   "version": "1.0.0",
   "description": "Autometic WhatsApp Bot",
   "main": "bot.js",
@@ -75,10 +75,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release.git"
+    "url": "https://github.com/Botpasiya/Maduwa_B4.git"
   },
   "bugs": {
-    "url": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release/issues"
+    "url": "https://github.com/Botpasiya/Maduwa_B4/issues"
   },
-  "homepage": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release#readme"
+  "homepage": "https://github.com/Botpasiya/Maduwa_B4#readme"
 }
