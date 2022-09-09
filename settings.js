@@ -56,11 +56,11 @@ global.themeemoji = "📩" //ur theme emoji
 global.packname = "Ama whatsapp Bot" //ur sticker watermark packname
 global.author = "Maduwa_❤️" //ur sticker watermark author
 global.footer = "® 𝗠𝗮𝗱𝘂𝗿𝗮𝗻𝗴𝗮❤️"
-global.aliveimg ="https://i.imgur.com/A9Cc71n.mp4"
+global.aliveimg ="https://i.imgur.com/5bwPHWO.jpeg"
 global.allmenuimg ="https://i.imgur.com/5bwPHWO.jpeg"
 global.welcomeimg= "https://i.imgur.com/5bwPHWO.jpeg"
 global.gbyeimg = "https://i.imgur.com/5bwPHWO.jpeg"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.alivemsg = "මගෙ විස්තර දැනගන්න ඕන්නම්, Chwt එකට ගිහින් දකුණු පැත්‍ය්හෙ අයිනෙ තියෙනවා Home Icone එකක්🏠 අන්න ඒක ඔබලා Product වල තියෙන මගෙ Logo එක ඔබලා බලන්න..\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
