@@ -38,7 +38,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //OWNER CONTACT
 global.vcardowner = ['94701643862'] //ur owner number
 global.ownername = "Maduwa_Bot❤️" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
+global.ytname = "YT: Technicale pasiya" //ur yt chanel name
 global.socialm = "GitHub: Botpasiya" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
@@ -47,8 +47,8 @@ global.owner = ['94701643862']
 global.ownertag = '94701643862' //ur tag number
 global.botnumber = '94701643862' //Add your Bot Number For Log
 global.botname = '🔰𝗤𝗨𝗘𝗘𝗡_ᎪᎷᎪ_𝗘𝗗𝗜𝗧𝗜𝗢𝗡🔰' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
+global.ig = "https://youtube.com/channel/UCuVG-zNv53sxMl5cjEIDHeA" //your theme url which will be displayed on whatsapp
+global.myweb = "https://youtube.com/channel/UCuVG-zNv53sxMl5cjEIDHeA" //ur website to be displayed
 global.sc = 'https://github.com/Botpasiya' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
