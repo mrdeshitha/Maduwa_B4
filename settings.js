@@ -1,4 +1,4 @@
-//CYBER-X  DARKALPHAXTEAM ◎◎◎ https://github.com/darkalphaxteam\\
+//CYBER-X  DARKALPHAXTEAM ◎◎◎ https://github.com/Botpasiya\\
 //══════════════THANKS FOR CHEEMS BOT MD (DGNEON)═ALL THE CREADITS GOES TO HIM═════════════\\
 // EXAM ඉවර උනාම ඉතුරු ටික දෙන්නම් 😓😓😓 GOOD LUCK ALL\\
 const fs = require('fs')
@@ -60,7 +60,7 @@ global.aliveimg ="https://i.imgur.com/5bwPHWO.jpeg"
 global.allmenuimg ="https://i.imgur.com/5bwPHWO.jpeg"
 global.welcomeimg= "https://i.imgur.com/5bwPHWO.jpeg"
 global.gbyeimg = "https://i.imgur.com/5bwPHWO.jpeg"
-global.alivemsg = "පුලුවන් කමක් තියෙනව නම්, Whatsapp Bot සම්බන්ධව නොදැනුවත් අයට මේ බව කියාදෙන්න..  n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.alivemsg = "පුලුවන් කමක් තියෙනව නම්, Whatsapp Bot සම්බන්ධව නොදැනුවත් අයට මේ බව කියාදෙන්න.. වෙලාවකට වැඩ නැතුව යනවා ගණන් ගන්නෙපා \n#@best_m_otivation\n#Maduwa_❤️\n#psychology\n#questions"
 global.owner = "94701643862"
 
 //BOT MEDIAS
