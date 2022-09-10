@@ -61,6 +61,7 @@ global.allmenuimg ="https://i.imgur.com/5bwPHWO.jpeg"
 global.welcomeimg= "https://i.imgur.com/5bwPHWO.jpeg"
 global.gbyeimg = "https://i.imgur.com/5bwPHWO.jpeg"
 global.alivemsg = "පුලුවන් කමක් තියෙනව නම්, Whatsapp Bot සම්බන්ධව නොදැනුවත් අයට මේ බව කියාදෙන්න..  n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.owner = "94701643862"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
