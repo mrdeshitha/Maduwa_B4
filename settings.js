@@ -60,7 +60,7 @@ global.aliveimg ="https://i.imgur.com/5bwPHWO.jpeg"
 global.allmenuimg ="https://i.imgur.com/5bwPHWO.jpeg"
 global.welcomeimg= "https://i.imgur.com/5bwPHWO.jpeg"
 global.gbyeimg = "https://i.imgur.com/5bwPHWO.jpeg"
-global.alivemsg = "මගෙ විස්තර දැනගන්න ඕන්නම්, Chwt එකට ගිහින් දකුණු පැත්‍ය්හෙ අයිනෙ තියෙනවා Home Icone එකක්🏠 අන්න ඒක ඔබලා Product වල තියෙන මගෙ Logo එක ඔබලා බලන්න..\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.alivemsg = "පුලුවන් කමක් තියෙනව නම්, Whatsapp Bot සම්බන්ධව නොදැනුවත් අයට මේ බව කියාදෙන්න..  n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
