@@ -37,7 +37,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
 global.vcardowner = ['94701643862'] //ur owner number
-global.ownername = "Maduwa_Bot❤️" //ur owner name
+global.ownername = "⏤ ͟͞ Maduwa_BOT❤️ ͟͞⏤" //ur owner name
 global.ytname = "YT: Technicale pasiya" //ur yt chanel name
 global.socialm = "GitHub: Botpasiya" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
@@ -55,7 +55,7 @@ global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
 global.packname = "Ama whatsapp Bot" //ur sticker watermark packname
 global.author = "Maduwa_❤️" //ur sticker watermark author
-global.footer = "® 𝗠𝗮𝗱𝘂𝗿𝗮𝗻𝗴𝗮❤️"
+global.footer = "⏤ ͟͞   ® 𝗠𝗮𝗱𝘂𝗿𝗮𝗻𝗴𝗮❤️   ͟͞⏤"
 global.aliveimg ="https://i.imgur.com/5bwPHWO.jpeg"
 global.allmenuimg ="https://i.imgur.com/5bwPHWO.jpeg"
 global.welcomeimg= "https://i.imgur.com/5bwPHWO.jpeg"
