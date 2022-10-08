@@ -36,31 +36,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94701643862'] //ur owner number
-global.ownername = "⏤ ͟͞ Maduwa_BOT❤️ ͟͞⏤" //ur owner name
-global.ytname = "YT: Technicale pasiya" //ur yt chanel name
-global.socialm = "GitHub: Botpasiya" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.vcardowner = ['94775556234'] //ur owner number
+global.ownername = "DESH" //ur owner name
+global.ytname = "YT:" //ur yt chanel name
+global.socialm = "GitHub:" //ur github or insta name
+global.location = "Sri Lanka, Kurunagala" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94701643862']
-global.ownertag = '94701643862' //ur tag number
-global.botnumber = '94701643862' //Add your Bot Number For Log
-global.botname = '𝐐𝐔𝐄𝐄𝐍 𝐀𝐌𝐀 𝐄𝐃𝐈𝐓𝐈𝐎𝐍❥' //ur bot name
+global.owner = ['94775556234']
+global.ownertag = '9475556234' //ur tag number
+global.botnumber = '9475556234' //Add your Bot Number For Log
+global.botname = '𝙲𝚁𝙰𝚉𝚈 𝙱𝙾𝚃' //ur bot name
 global.ig = "https://youtube.com/channel/UCuVG-zNv53sxMl5cjEIDHeA" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtube.com/channel/UCuVG-zNv53sxMl5cjEIDHeA" //ur website to be displayed
 global.sc = 'https://github.com/Botpasiya' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "📩" //ur theme emoji
+global.reactmoji = "😒" //ur menu react emoji
+global.themeemoji = "🚀" //ur theme emoji
 global.packname = "Ama whatsapp Bot" //ur sticker watermark packname
-global.author = "Maduwa_❤️" //ur sticker watermark author
-global.footer = "⏤ ͟͞   ® 𝗠𝗮𝗱𝘂𝗿𝗮𝗻𝗴𝗮❤️   ͟͞⏤"
+global.author = "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙲𝚁𝙰𝚉𝚈 𝙱𝙾𝚃" //ur sticker watermark author
+global.footer = "𝙲𝚁𝙰𝚉𝚈 𝙱𝙾𝚃"
 global.aliveimg ="https://i.imgur.com/5bwPHWO.jpeg"
 global.allmenuimg ="https://i.imgur.com/5bwPHWO.jpeg"
 global.welcomeimg= "https://i.imgur.com/5bwPHWO.jpeg"
 global.gbyeimg = "https://i.imgur.com/5bwPHWO.jpeg"
-global.alivemsg = "පුලුවන් කමක් තියෙනව නම්, Whatsapp Bot සම්බන්ධව නොදැනුවත් අයට මේ බව කියාදෙන්න.. වෙලාවකට වැඩ නැතුව යනවා ගණන් ගන්නෙපා \n#@best_m_otivation\n#Maduwa_❤️\n#psychology\n#questions"
+global.alivemsg = "*🍃👨🏻‍💻මම දැන් 𝘖𝘯𝘭𝘪𝘯𝘦 ඉන්නේ ❤️🤗 **  *❤️🪄 Get To Commond List 〲.menu ❤️🪄*  *🤗❤️🅷🅰🆅🅴 🅰 🅽🅸🅲🅴 🅳🅰🆈  ❤️💫*\n#@best_m_otivation\n#𝙳𝚎𝚜𝚑...🚀\n#psychology\n#questions"
 global.owner = "94701643862"
 
 //BOT MEDIAS
@@ -71,7 +71,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94701643862'] //ADD YOU NUMBER
+global.premium = ['94775556234'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
